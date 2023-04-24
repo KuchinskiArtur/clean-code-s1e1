@@ -18,9 +18,12 @@
 }
 
 @media (max-width:768px) {
-.img-wrap { text-align: center;
+
+    .img-wrap { text-align: center;
+    }
+
 }
-}
+
 .main {
     display: block;
     width: 500px;
